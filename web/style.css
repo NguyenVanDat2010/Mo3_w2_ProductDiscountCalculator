@@ -1,0 +1,12 @@
+.product{
+    width: 220px;
+    height: 250px;
+    padding: 10px;
+    border: 1px solid blue;
+    margin: 0;
+}
+
+.product input{
+    padding: 5px;
+    margin: 5px;
+}
